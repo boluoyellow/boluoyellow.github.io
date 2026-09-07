@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "来都来了看一眼吧，不过不要被负面情绪影响哦"
 author_profile: true
 redirect_from:
   - /about/
