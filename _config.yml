@@ -26,7 +26,7 @@ author:
   avatar           : "head.png"
   name             : "boluoyellow"
   pronouns         : # example: "she/her"  
-  bio              : "A die-hard rogelike player"
+  bio              : "A die-hard roguelike player"
   location         : "Mas"
   employer         : "FuZhou KFC-University"
   uri              : # URL
@@ -42,9 +42,9 @@ author:
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
+  researchgate     : # 
+  scopus           : # 
+  zotero           : # 
 
 
   # Repositories and software development
@@ -67,7 +67,7 @@ author:
   instagram        : # Username
   lastfm           : # Username
   linkedin         : # Username
-  mastodon         : # URL
+  mastodon         : # 
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
